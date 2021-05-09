@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "firstmod:first_item"
+        },
+        {
+            "item": "firstmod:first_item"
+        },
+        {
+            "item": "firstmod:first_item"
+        },
+        {
+            "item": "firstmod:first_item"
+        }
+    ],
+    "result": {
+        "item": "firstmod:first_block",
+        "count": 1
+    }
+}

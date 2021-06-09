@@ -10,7 +10,7 @@ In the future.
 # How can I use this mod?
 The mod doesn't do much right now, but if you want to get it, you can download
 the latest version on the GitHub releases tab.
-I'm also planning to make a Modrinth and or Curseforge page at some point.
+I'm also planning to make a Modrinth and/or Curseforge page at some point.
 
 # Can I contribute to this?
 Yes! All help is appreciated! You can contribute by forking this repo, then

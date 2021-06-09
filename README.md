@@ -15,13 +15,11 @@ the latest version on the GitHub releases tab.
 Yes! All help is appreciated! You can contribute by forking this repo, then
 Submitting a pull request.
 
-# What's planned in the future?
+# Future goals and plans
 My goal is to continue working on adding more content to the mod, then once I
-Have a reasonable amount I will work on porting to the latest Minecraft versions, 
-such as 1.17.
+Have a reasonable amount I will work on porting to the latest versions of Minecraft.
 
 Current Minecraft version: 1.16.5
-
 Target Minecraft version: 1.17
 
 

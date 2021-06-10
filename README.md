@@ -1,7 +1,7 @@
 # FirstMCMod
-**THIS PROJECT IS ARCHIVED AND I AM NO LONGER WORKING ON IT. THIS IS MY FIRST MOD SO  DON"T EXPECT MUCH**
-My first Minecraft Mod,
-coded in the Fabric mod loader.
+**THIS PROJECT IS ARCHIVED AND I AM NO LONGER WORKING ON IT. THIS IS MY FIRST MOD SO  DON"T EXPECT MUCH.**
+
+My first Minecraft Mod, coded in the Fabric mod loader.
 
 # What does this mod do?
 As of right now, the mod adds a new block called

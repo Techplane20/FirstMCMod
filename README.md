@@ -13,7 +13,7 @@ the latest version on the GitHub releases tab.
 I'm also planning to make a Modrinth and/or Curseforge page at some point.
 
 # Can I contribute to this?
-Yes! All help is appreciated! You don't even need toadd any code, all ideas are welcome!
+Yes! All help is appreciated! You don't even need to add any code, all ideas are welcome!
 You can also contribute the normal way; forking this repo, then submitting a pull request.
 
 # Future goals and plans

@@ -13,12 +13,12 @@ the latest version on the GitHub releases tab.
 I'm also planning to make a Modrinth and/or Curseforge page at some point.
 
 # Can I contribute to this?
-Yes! All help is appreciated! You can contribute by forking this repo, then
-Submitting a pull request.
+Yes! All help is appreciated! You don't even need toadd any code, all ideas are welcome!
+You can also contribute the normal way; forking this repo, then submitting a pull request.
 
 # Future goals and plans
 My goal is to continue working on adding more content to the mod, then once I
-Have a reasonable amount I will work on porting to the latest versions of Minecraft.
+have a reasonable amount of stuff implemented I will work on porting to the latest versions of Minecraft.
 
 Current Minecraft version: 1.16.5
 
